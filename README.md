@@ -1,21 +1,28 @@
-# Alekya pochampally
-Hello everyone, Here I am experimenting with markdown language. 
+# About Me
+---
 
-#### Here I tried to add a inline-style link
+## Repo Links
+* [**Source repository**](https://github.com/AlekyaPochampally/about-me)
+* [**Hosted page**](https://alekyapochampally.github.io/about-me/)
 
-Try clicking on the link below to see the source code
+## About
+This repo contains details about the tools and technologies I used for creating about-me github page.
 
-[Link to my repo](https://github.com/abhilash405/Abhilash405.github.io/edit/master/README.md)
+## Recommended Tools
 
-#### Here I tried to insert a table
+**Browser**
+- [Chrome](https://www.google.com/chrome/)
 
-| Name | Gender| Age  |
-|--------|------|------|
+**Editor**
+- [Visual studio code](https://code.visualstudio.com/download)
+- [Dillinger online editor](https://dillinger.io/)
 
+**Git Tools**
+- [Tortoise git](https://tortoisegit.org/download/)
 
-#### Here I tried to add a youtube video link to an image
-Try clicking on the image.
+## Recommended Resources
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=UB1O30fR-EE
-" target="_blank"><img src="http://img.youtube.com/vi/UB1O30fR-EE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+- [Markdown Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Tortoise git tutorial](https://tortoisegit.org/docs/tortoisegit/)
+- [How to publish GitHub page](https://pages.github.com/)
+
